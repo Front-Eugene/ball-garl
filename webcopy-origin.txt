@@ -1,0 +1,152 @@
+Uri: https://light-blanket.bestseil.of.by/
+File Name: C:\Downloaded Web Sites\light-blanket.bestseil.of.by\index.htm
+Content Type: text/html
+
+Uri: https://light-blanket.bestseil.of.by/agreement.html
+File Name: C:\Downloaded Web Sites\light-blanket.bestseil.of.by\agreement.html
+Content Type: text/html
+
+Uri: https://light-blanket.bestseil.of.by/css/fonts.css
+File Name: C:\Downloaded Web Sites\light-blanket.bestseil.of.by\css\fonts.css
+Content Type: text/css
+
+Uri: https://light-blanket.bestseil.of.by/css/form.min.css
+File Name: C:\Downloaded Web Sites\light-blanket.bestseil.of.by\css\form.min.css
+Content Type: text/css
+
+Uri: https://light-blanket.bestseil.of.by/css/owl.carousel.min.css
+File Name: C:\Downloaded Web Sites\light-blanket.bestseil.of.by\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://light-blanket.bestseil.of.by/css/reset.css
+File Name: C:\Downloaded Web Sites\light-blanket.bestseil.of.by\css\reset.css
+Content Type: text/css
+
+Uri: https://light-blanket.bestseil.of.by/css/styles.css
+File Name: C:\Downloaded Web Sites\light-blanket.bestseil.of.by\css\styles.css
+Content Type: text/css
+
+Uri: https://light-blanket.bestseil.of.by/dogovor_vozvrata.html
+File Name: C:\Downloaded Web Sites\light-blanket.bestseil.of.by\dogovor_vozvrata.html
+Content Type: text/html
+
+Uri: https://light-blanket.bestseil.of.by/fonts/Montserrat-Bold.woff2
+File Name: C:\Downloaded Web Sites\light-blanket.bestseil.of.by\fonts\Montserrat-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://light-blanket.bestseil.of.by/fonts/Montserrat-Regular.woff2
+File Name: C:\Downloaded Web Sites\light-blanket.bestseil.of.by\fonts\Montserrat-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://light-blanket.bestseil.of.by/images/animate_bg.png
+File Name: C:\Downloaded Web Sites\light-blanket.bestseil.of.by\images\animate_bg.png
+Content Type: image/png
+
+Uri: https://light-blanket.bestseil.of.by/images/bg_light.jpg
+File Name: C:\Downloaded Web Sites\light-blanket.bestseil.of.by\images\bg_light.jpg
+Content Type: image/jpeg
+
+Uri: https://light-blanket.bestseil.of.by/images/center1.png
+File Name: C:\Downloaded Web Sites\light-blanket.bestseil.of.by\images\center1.png
+Content Type: image/png
+
+Uri: https://light-blanket.bestseil.of.by/images/center2.png
+File Name: C:\Downloaded Web Sites\light-blanket.bestseil.of.by\images\center2.png
+Content Type: image/png
+
+Uri: https://light-blanket.bestseil.of.by/images/center3.png
+File Name: C:\Downloaded Web Sites\light-blanket.bestseil.of.by\images\center3.png
+Content Type: image/png
+
+Uri: https://light-blanket.bestseil.of.by/images/center4.png
+File Name: C:\Downloaded Web Sites\light-blanket.bestseil.of.by\images\center4.png
+Content Type: image/png
+
+Uri: https://light-blanket.bestseil.of.by/images/center5.png
+File Name: C:\Downloaded Web Sites\light-blanket.bestseil.of.by\images\center5.png
+Content Type: image/png
+
+Uri: https://light-blanket.bestseil.of.by/images/main.png
+File Name: C:\Downloaded Web Sites\light-blanket.bestseil.of.by\images\main.png
+Content Type: image/png
+
+Uri: https://light-blanket.bestseil.of.by/images/offer3__discount_bg.png
+File Name: C:\Downloaded Web Sites\light-blanket.bestseil.of.by\images\offer3__discount_bg.png
+Content Type: image/png
+
+Uri: https://light-blanket.bestseil.of.by/images/offer__name_icon.png
+File Name: C:\Downloaded Web Sites\light-blanket.bestseil.of.by\images\offer__name_icon.png
+Content Type: image/png
+
+Uri: https://light-blanket.bestseil.of.by/images/offer__phone_icon.png
+File Name: C:\Downloaded Web Sites\light-blanket.bestseil.of.by\images\offer__phone_icon.png
+Content Type: image/png
+
+Uri: https://light-blanket.bestseil.of.by/images/order_steps__step1_icon.png
+File Name: C:\Downloaded Web Sites\light-blanket.bestseil.of.by\images\order_steps__step1_icon.png
+Content Type: image/png
+
+Uri: https://light-blanket.bestseil.of.by/images/order_steps__step2_icon.png
+File Name: C:\Downloaded Web Sites\light-blanket.bestseil.of.by\images\order_steps__step2_icon.png
+Content Type: image/png
+
+Uri: https://light-blanket.bestseil.of.by/images/order_steps__step3_icon.png
+File Name: C:\Downloaded Web Sites\light-blanket.bestseil.of.by\images\order_steps__step3_icon.png
+Content Type: image/png
+
+Uri: https://light-blanket.bestseil.of.by/images/order_steps__step4_icon.png
+File Name: C:\Downloaded Web Sites\light-blanket.bestseil.of.by\images\order_steps__step4_icon.png
+Content Type: image/png
+
+Uri: https://light-blanket.bestseil.of.by/images/otz1.jpg
+File Name: C:\Downloaded Web Sites\light-blanket.bestseil.of.by\images\otz1.jpg
+Content Type: image/jpeg
+
+Uri: https://light-blanket.bestseil.of.by/images/otz2.jpg
+File Name: C:\Downloaded Web Sites\light-blanket.bestseil.of.by\images\otz2.jpg
+Content Type: image/jpeg
+
+Uri: https://light-blanket.bestseil.of.by/images/otz3.jpg
+File Name: C:\Downloaded Web Sites\light-blanket.bestseil.of.by\images\otz3.jpg
+Content Type: image/jpeg
+
+Uri: https://light-blanket.bestseil.of.by/images/quote1_icon.png
+File Name: C:\Downloaded Web Sites\light-blanket.bestseil.of.by\images\quote1_icon.png
+Content Type: image/png
+
+Uri: https://light-blanket.bestseil.of.by/images/reviews2__arrows.png
+File Name: C:\Downloaded Web Sites\light-blanket.bestseil.of.by\images\reviews2__arrows.png
+Content Type: image/png
+
+Uri: https://light-blanket.bestseil.of.by/images/separator_red.png
+File Name: C:\Downloaded Web Sites\light-blanket.bestseil.of.by\images\separator_red.png
+Content Type: image/png
+
+Uri: https://light-blanket.bestseil.of.by/js/html5shiv.js
+File Name: C:\Downloaded Web Sites\light-blanket.bestseil.of.by\js\html5shiv.js
+Content Type: application/javascript
+
+Uri: https://light-blanket.bestseil.of.by/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\light-blanket.bestseil.of.by\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://light-blanket.bestseil.of.by/js/jquery.min_1.js
+File Name: C:\Downloaded Web Sites\light-blanket.bestseil.of.by\js\jquery.min_1.js
+Content Type: application/javascript
+
+Uri: https://light-blanket.bestseil.of.by/js/maskedinput.js
+File Name: C:\Downloaded Web Sites\light-blanket.bestseil.of.by\js\maskedinput.js
+Content Type: application/javascript
+
+Uri: https://light-blanket.bestseil.of.by/js/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\light-blanket.bestseil.of.by\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://light-blanket.bestseil.of.by/js/scripts.js
+File Name: C:\Downloaded Web Sites\light-blanket.bestseil.of.by\js\scripts.js
+Content Type: application/javascript
+
+Uri: https://light-blanket.bestseil.of.by/politics.html
+File Name: C:\Downloaded Web Sites\light-blanket.bestseil.of.by\politics.html
+Content Type: text/html
+
